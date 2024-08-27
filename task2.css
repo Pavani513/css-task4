@@ -1,27 +1,29 @@
-div{
+.pav {
     background-color: blue;
-    color:white;
-    padding-top: 10px;
-    padding-bottom:10px;
+    color: white;
+    position: fixed;
+    top: 0;
+    z-index: 1;
+    width: 100vw;
     font-size: 25px;
     font-style: italic;
 }
-#pp{
-    position: absolute;
-    top: 450px; left: 540px;
+
+.krish {
     background-color: white;
+    margin-bottom: 10px;
+
 }
-.krish{
+
+.kri {
     background-color: white;
-    margin-top: 2px;
+    margin-top: 30px;
 }
-.kri{
-    background-color: white;
-    margin-top: 20px;
-}
-.kk{
+
+.kk {
     margin-top: 60px;
 }
-jj{
+
+jj {
     margin-top: 20px;
 }
